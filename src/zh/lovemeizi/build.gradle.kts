@@ -6,6 +6,7 @@ plugins {
 android {
     namespace = "eu.kanade.tachiyomi.extension.zh.lovemeizi"
     compileSdk = 34
+
     defaultConfig {
         minSdk = 21
     }
